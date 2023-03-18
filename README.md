@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there, I'm SquirrelPython! 👋
 
-<!--
-**squirrelpython/squirrelpython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer with expertise in Python and JavaScript. I have experience working with various frameworks such as Django, React, AdonisJS, TypeScript, and Express. 
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python 🐍
+- JavaScript 💻
+- Django 🎉
+- React ⚛️
+- AdonisJS 🌟
+- TypeScript 📜
+- Express 🚀
+
+## Contact
+
+Feel free to get in touch with me via [email](mailto:squirrelpyython@gmail.com)
+
+### Image
+
+![SquirrelPython's GitHub stats](https://github-readme-stats.vercel.app/api?username=squirrelpython&show_icons=true&theme=radical)
