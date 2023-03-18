@@ -14,7 +14,7 @@ I'm a full-stack developer with expertise in Python and JavaScript. I have exper
 
 ## Contact
 
-Feel free to get in touch with me via [email](mailto:squirrelpyython@gmail.com)
+Feel free to get in touch with me via [email](mailto:squirrelpython@gmail.com)
 
 ### Image
 
